@@ -116,7 +116,7 @@ function check(){
         <div class="entry left">所属
         </div>
         <div class="entry right">
-            <select  class="form-control data w200"
+            <select  class="form-select data w200"
                 id="syozoku"
                 name="syozoku"
                 <?= $disabled_2 ?>>
@@ -128,7 +128,7 @@ function check(){
         <div class="entry left">性別
         </div>
         <div class="entry right">
-            <select class="form-control data w100"
+            <select class="form-select data w100"
                 id="seibetsu"
                 name="seibetsu"
                 <?= $disabled_2 ?>>
